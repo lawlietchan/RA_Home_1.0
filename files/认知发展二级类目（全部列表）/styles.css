@@ -2231,3 +2231,13 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u3172 {
+  border-width:0px;
+  position:absolute;
+  left:210px;
+  top:63px;
+  width:124px;
+  height:40px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
