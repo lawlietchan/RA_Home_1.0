@@ -498,11 +498,8 @@
   width:307px;
   height:40px;
   background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
+  background-color:rgba(204, 204, 204, 1);
+  border:none;
   border-radius:25px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
@@ -571,7 +568,7 @@
   width:231px;
   height:18px;
   font-size:14px;
-  color:#000000;
+  color:#FFFFFF;
   text-align:center;
 }
 #u440 {
