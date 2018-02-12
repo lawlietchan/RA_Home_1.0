@@ -377,8 +377,8 @@
 #u4502 {
   border-width:0px;
   position:absolute;
-  left:307px;
-  top:612px;
+  left:314px;
+  top:614px;
   width:28px;
   height:25px;
 }
@@ -532,7 +532,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:27px;
+  width:52px;
   height:15px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -547,9 +547,9 @@
 #u4514 {
   border-width:0px;
   position:absolute;
-  left:89px;
+  left:78px;
   top:527px;
-  width:27px;
+  width:52px;
   height:15px;
   font-size:13px;
   text-align:center;
@@ -559,7 +559,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:27px;
+  width:52px;
   white-space:nowrap;
 }
 #u4516 {
@@ -633,9 +633,9 @@
 #u4521 {
   border-width:0px;
   position:absolute;
-  left:82px;
-  top:484px;
-  width:41px;
+  left:75px;
+  top:483px;
+  width:57px;
   height:67px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
@@ -965,7 +965,7 @@
   left:0px;
   top:0px;
   width:350px;
-  height:30px;
+  height:64px;
 }
 #u4547 {
   border-width:0px;
@@ -973,12 +973,64 @@
   left:453px;
   top:493px;
   width:350px;
-  height:30px;
+  height:64px;
   font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
 }
 #u4548 {
+  border-width:0px;
+  position:absolute;
+  left:10px;
+  top:6px;
+  width:330px;
+  word-wrap:break-word;
+}
+#u4549_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:66px;
+  height:2px;
+}
+#u4549 {
+  border-width:0px;
+  position:absolute;
+  left:388px;
+  top:618px;
+  width:65px;
+  height:1px;
+}
+#u4550 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:-8px;
+  width:61px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4551_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:350px;
+  height:44px;
+}
+#u4551 {
+  border-width:0px;
+  position:absolute;
+  left:453px;
+  top:604px;
+  width:350px;
+  height:44px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+}
+#u4552 {
   border-width:0px;
   position:absolute;
   left:10px;
